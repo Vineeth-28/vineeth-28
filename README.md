@@ -25,6 +25,12 @@ DevOps Engineer focused on **cloud infrastructure, containers, and automation**.
 
 ---
 
+## 🌐 Portfolio
+
+**[vineeth-28.github.io](https://vineeth-28.github.io)** — an interactive site built to mirror this profile: a pipeline-themed walkthrough of my projects, tech stack, and AWS certification progress, with a live-updating progress tracker. Built and deployed with plain HTML/CSS/JS on GitHub Pages — no framework, no build step.
+
+---
+
 ## 🏗️ Featured Projects
 
 > Every project below is deployed from code — click through for setup instructions and design decisions.
