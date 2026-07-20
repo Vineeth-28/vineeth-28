@@ -1,16 +1,70 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Vineeth-28/vineeth-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Linux+%7C+Docker+%7C+Kubernetes;Terraform+%7C+AWS+%7C+GitHub+Actions;Cloud+Infrastructure+%26+Automation" alt="DevOps Engineer" />
 
-Here are some ideas to get you started:
+### I build automated, reproducible, production-ready infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Email](https://img.shields.io/badge/Email-VineetPrakash918%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:VineetPrakash918@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vineeth--28.github.io-38BDF8?style=flat-square&logo=githubpages&logoColor=white)](https://vineeth-28.github.io)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+DevOps Engineer focused on **cloud infrastructure, containers, and automation**.
+
+- 🛠️ I provision infrastructure with **Terraform** on **AWS** — nothing clicked together in a console
+- ☸️ I deploy and operate containerized workloads with **Docker** and **Kubernetes**
+- ⚙️ I automate build → test → deploy with **GitHub Actions**
+- 🐧 I live in the **Linux** terminal — Bash scripting, systemd, networking, permissions
+- 💻 I also build backend services (Node.js/Express), so I understand the full application lifecycle from code to production — and what developers need from the platforms I run
+
+---
+
+## 🏗️ Featured Projects
+
+> Every project below is deployed from code — click through for setup instructions and design decisions.
+
+| Project | What it demonstrates | Stack |
+|---|---|---|
+| **[Multi-Tier-Terraform](https://github.com/Vineeth-28/Multi-Tier-Terraform)** | Multi-tier AWS architecture (VPC, subnets, EC2, security groups) provisioned entirely as code — modular, variable-driven, reproducible | Terraform · AWS |
+| **[DevSecOps Cheatsheets](https://github.com/Vineeth-28/devsecops-cheatsheets)** | Practical, reusable CI/CD, Docker, and security-scanning templates for real application stacks | GitHub Actions · Docker · DevSecOps |
+| **[URL Shortener — Containerized & Deployed](https://github.com/Vineeth-28/url-shortener-service)** | A backend service I built **and then productionized**: Dockerized, health-checked, deployed via CI/CD pipeline | Docker · GitHub Actions · Node.js · Redis |
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Tools |
+|---|---|
+| ☁️ **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900) ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazoniam&logoColor=white) |
+| 📦 **Containers & Orchestration** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| 🌍 **Infrastructure as Code** | ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) |
+| ⚙️ **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| 🐧 **Linux & Scripting** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
+| 🔀 **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| 💻 **Application Layer** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white) |
+
+---
+
+## 📚 Currently Building
+
+- ☸️ Kubernetes production deployment project (manifests, probes, HPA, Ingress)
+- 📊 Monitoring stack with **Prometheus + Grafana**
+- 🎓 Preparing for **AWS Certified Cloud Practitioner** → **Solutions Architect Associate**
+
+---
+
+## 📫 Contact
+
+**Open to:** Junior DevOps Engineer · Cloud Support · Platform Engineer · SRE (Entry Level)
+
+📧 [VineetPrakash918@gmail.com](mailto:VineetPrakash918@gmail.com) · 🌐 [vineeth-28.github.io](https://vineeth-28.github.io)
+
+<div align="center">
+
+### ⚡ Automate Everything • Build Reliable Systems • Keep Learning
+
+</div>
