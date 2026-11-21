@@ -23,11 +23,10 @@ My core is backend: APIs, data models, caching, queues and real-time systems. On
 | **Design and build APIs** with validation, layered architecture, caching, logging and request tracing | [URL Shortener API](https://github.com/Vineeth-28/ShortUrl-) |
 | **Build real-time and async systems**: Socket.IO messaging, JWT auth, background jobs with retries and rate limits | [Slack Backend](https://github.com/Vineeth-28/Slack-Backend) |
 
-| DevOps (what makes me easier to hire) | Proof |
-|---|---|
-| **Take a service from `git push` to a running Kubernetes deployment** with rolling updates, monitoring and logs | [CloudBoard](https://github.com/Vineeth-28/cloudboard) |
-| **Provision cloud infrastructure entirely as code**, with nothing clicked together in a console | [AWS with Terraform](https://github.com/Vineeth-28/Assignment) · [Multi-Tier Terraform](https://github.com/Vineeth-28/Multi-Tier-Terraform) |
-| **Automate build → test → scan → deploy** | [DevSecOps Toolkit](https://github.com/Vineeth-28/devsecops-cheatsheets) · [Matrix CI/CD](https://github.com/Vineeth-28/Matrix-Strategy-Github-Actions) |
+**DevOps (what makes me easier to hire):**
+
+- **Provision cloud infrastructure entirely as code**, with nothing clicked together in a console
+- **Automate build → test → scan → deploy** with CI/CD pipelines
 
 ---
 
@@ -41,9 +40,9 @@ A backend-only service with validated **tRPC** procedures and compact **Base62**
 A REST API and real-time messaging backend for a Slack-style platform: JWT sign-up and sign-in, workspaces with join codes and admin/member roles, channels, and messages saved to MongoDB before being broadcast over **Socket.IO**, with paginated history. It also includes **async bulk email** on BullMQ and Redis, with one job per recipient, retries with exponential backoff and a shared rate limit across workers.
 `Node.js · Express · MongoDB · Socket.IO · Redis · BullMQ · JWT · Zod`
 
-### 3. [CloudBoard](https://github.com/Vineeth-28/cloudboard): backend meets DevOps
-A production-style delivery pipeline for a user-directory service. A `git push` triggers CI/CD and ends in a **monitored, logged, rolling-updated Kubernetes deployment**.
-`Kubernetes · Docker · CI/CD · Monitoring`
+### 3. [AWS Infrastructure with Terraform](https://github.com/Vineeth-28/Assignment): cloud
+A full AWS stack (VPC, ALB, ASG, RDS, Secrets Manager, S3) defined as code and deployed through a **GitHub Actions** pipeline.
+`Terraform · AWS · GitHub Actions`
 
 ---
 
@@ -51,7 +50,6 @@ A production-style delivery pipeline for a user-directory service. A `git push` 
 
 | Project | What it shows | Stack |
 |---|---|---|
-| [AWS Infrastructure with Terraform](https://github.com/Vineeth-28/Assignment) | A full AWS stack (VPC, ALB, ASG, RDS, Secrets Manager, S3) defined as code and deployed through a GitHub Actions pipeline | Terraform · AWS · GitHub Actions |
 | [URL Shortener: Containerized & Deployed](https://github.com/Vineeth-28/url-shortener-service) | A service I built **and then productionized**: Dockerized, health-checked, deployed via CI/CD | Docker · GitHub Actions · Node.js · Redis |
 | [Multi-Tier-Terraform](https://github.com/Vineeth-28/Multi-Tier-Terraform) | Modular, variable-driven multi-tier AWS architecture (VPC, subnets, EC2, security groups) | Terraform · AWS |
 | [DevSecOps CI/CD Toolkit](https://github.com/Vineeth-28/devsecops-cheatsheets) | Reusable workflows with **Trivy** (CVE) and **Gitleaks** (secrets) scanning | GitHub Actions · Docker |
