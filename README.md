@@ -50,9 +50,9 @@ A full AWS stack (VPC, ALB, ASG, RDS, Secrets Manager, S3) defined as code and d
 
 | Project | What it shows | Stack |
 |---|---|---|
-| [URL Shortener: Containerized & Deployed](https://github.com/Vineeth-28/url-shortener-service) | A service I built **and then productionized**: Dockerized, health-checked, deployed via CI/CD | Docker · GitHub Actions · Node.js · Redis |
+
 | [Multi-Tier-Terraform](https://github.com/Vineeth-28/Multi-Tier-Terraform) | Modular, variable-driven multi-tier AWS architecture (VPC, subnets, EC2, security groups) | Terraform · AWS |
-| [DevSecOps CI/CD Toolkit](https://github.com/Vineeth-28/devsecops-cheatsheets) | Reusable workflows with **Trivy** (CVE) and **Gitleaks** (secrets) scanning | GitHub Actions · Docker |
+
 | [Matrix Testing & Deployment](https://github.com/Vineeth-28/Matrix-Strategy-Github-Actions) | 3-stage pipeline: matrix tests across Python versions → Docker build & push → deploy via self-hosted runner | GitHub Actions · Docker · Python |
 | [Ubuntu Provisioning Script](https://github.com/Vineeth-28/Starting-Shell-Script-for-Ubuntu-) | One script to provision, secure and configure an AWS Ubuntu instance with Docker | Bash · AWS · Docker |
 
